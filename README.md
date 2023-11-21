@@ -6,6 +6,6 @@
   - Licence en Science Informatique | Université International des Sciences Appliquées et de Technologie Abidjan  (2018-2021)
   - Baccalauréat série C | Institut Freobel Abidjan (2017-2018) 
 ## Work Experience
--Stage de 03 mois à Ivoirrapid en tant que développeur web 
+- Stage de 03 mois à l'entreprise IvoiRapid en tant que développeur web 
 
 ## Projects 
